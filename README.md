@@ -1,4 +1,4 @@
-![](https://github.com/Dev-Myles/Dev-Myles/blob/main/profileHeader.svg)
+
 # Hey. :wave:
 
 :dart: My name is Myles and I am a full stack developer from Iowa, U.S of A. I am a self taught developer currently working on my portfolio and manage a site I've created for a local
