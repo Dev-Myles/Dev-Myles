@@ -1,4 +1,5 @@
-![](https://github.com/Dev-Myles/Dev-Myles/blob/main/profileHeader.svg)
+![linkedinbanner](https://user-images.githubusercontent.com/87087229/195963576-5e0a827d-e6a8-4060-968f-f2c362154c3a.svg)
+
 # Hey. :wave:
 
 :dart: My name is Myles and I am a web developer from Iowa, U.S of A. I am a self taught developer currently working on my portfolio and manage a site I've created for a local small business. I am looking to become a full time developer at a company to gain experience and improve my skills.
