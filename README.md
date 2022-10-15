@@ -2,12 +2,20 @@
 
 # Hey. :wave:
 
-:dart: My name is Myles and I am a web developer from Iowa, U.S of A. I am a self taught developer currently working on my portfolio and manage a site I've created for a local small business. I am looking to become a full time developer at a company to gain experience and improve my skills.
+:dart: My name is Myles and I am a web developer from Iowa. I am a self taught developer currently searching and interviewing for web developer positions. I am looking to become a full time developer at a company to gain experience and improve my skills. My main goal is to become a senior level developer who can handle any task thrown at him.
 
 ## :scroll: Projects
 
-I love to come up with and work on projects that I can use in my personal life or projects that use a technology that I'm interested in learning. Theory crafting and 
+I love to come up with and work on projects that I can use in my personal life or use technology that I'm interested in learning. Theory crafting and 
 rambling about my current/potential projects with other devs is one of my favorite things to do.
+
+### My completed projects:
+- Code Cards ---> https://steel-t3.vercel.app/
+- Rock Bottom Guild E-store mock up ---> https://prolangs-next.vercel.app/
+- Dungeon Builder ---> https://dungeon-builder.herokuapp.com/ (to be retired 11/22)
+- Rock Bottom Guild Offical Site ---> www.rockbottomguild.com
+- My portfolio site ---> www.dev-myles.com
+  
 
 ---
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=data:image/svg%2bxml;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAA10RVh0VGl0bGUAV2luZG93c2aNTmUAAAE1SURBVEiJ7dYxahtBGMXx/xuWCINQJQjCweDdjUKkK/gGPkUqN76IL+GzuMk11MYuZzSBCDvzXFgJOBi0I0eV/epv3o+PKWbEf4jtDzHGTyGEJbAAWtutpKUqShRjPJU0B+bAlxDCZ9tz4AR4sUv/lBzlnDvbHdDb7kIIne3bzWZzORqNUu12TUrpGuiAbr1eHz/TJWwD3NQW/wWAb/seHpJwyPJ34I0ADXC1a0jSajqd/so5X1QDkla7hmz/qC3+E6WUPGDuJud8Ph6Pf9YCg+9gNps91JZXAcBhAUkFKAcDtqneogqQdFjA9v0+wHfgbuB89QbNZDI5A7A9ijEeN03T2m6BZSllIam1/XtfYNCjbztIKimlM+ArT09sb7uT1APjVwG7knP+WErpt2i//Sj0QPcILFh9a7QIvu4AAAAASUVORK5CYII=)
