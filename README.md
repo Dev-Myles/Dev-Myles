@@ -1,13 +1,13 @@
 ![linkedinbanner](https://user-images.githubusercontent.com/87087229/195963576-5e0a827d-e6a8-4060-968f-f2c362154c3a.svg)
 
-# Hey. :wave:
+# Welcome :wave:
 
-:dart: My name is Myles and I am a web developer from Iowa. I am a self taught developer currently searching and interviewing for web developer positions. I am looking to become a full time developer at a company to gain experience and improve my skills. My main goal is to become a senior level developer who can handle any task thrown at him.
+:dart: My name is Myles and I am a web developer from Iowa. I am currently searching and interviewing for a web developer position. My main goal is to become a senior developer with a wide skill set fit to handle any situation.
 
 ## :scroll: Projects
 
-I love to come up with and work on projects that I can use in my personal life or use technology that I'm interested in learning. Theory crafting and 
-rambling about my current/potential projects with other devs is one of my favorite things to do.
+I love to create projects that are useful in my personal life and expand my skills using different technologies. Theory crafting and 
+discussing my current/potential projects with other developers is one of my favorite things to do.
 
 ### My completed projects:
 - Code Cards ---> https://steel-t3.vercel.app/
