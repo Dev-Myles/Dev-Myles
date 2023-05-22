@@ -2,7 +2,7 @@
 
 # Welcome :wave:
 
-:dart: My name is Myles and I am a web developer from Iowa. I am currently searching and interviewing for a web developer position. My main goal is to become a senior developer with a wide skill set fit to handle any situation.
+:dart: My name is Myles and I am a programmer from Iowa. Currently pursuing a career in DevOps & Networking.
 
 ## :scroll: Projects
 
