@@ -2,7 +2,7 @@
 
 # Welcome :wave:
 
-:dart: My name is Myles and I am a programmer from Iowa. Currently pursuing a career in DevOps & Networking.
+:dart: My name is Myles and I am a programmer from Iowa. Currently pursuing a career in DevOps/Networking/Scripting.
 
 ## :scroll: Projects
 
