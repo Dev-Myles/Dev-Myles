@@ -26,7 +26,6 @@ discussing my current/potential projects with other developers is one of my favo
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=%2322dda6&logo=python)](https://)
 [![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=%2380807f&logo=Javascript)](https://)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=%23abcef8&logo=TypeScript)](https://)
-
 [![Next.Js](https://img.shields.io/static/v1?label=&message=Next.Js&color=%23000&logo=Next.Js)](https://)
 [![React.Js](https://img.shields.io/static/v1?label=&message=React.Js&color=%238710ef&logo=React)](https://)
 
