@@ -29,5 +29,4 @@ discussing my current/potential projects with other developers is one of my favo
 [![Next.Js](https://img.shields.io/static/v1?label=&message=Next.Js&color=%23000&logo=Next.Js)](https://)
 [![React.Js](https://img.shields.io/static/v1?label=&message=React.Js&color=%238710ef&logo=React)](https://)
 [![Tailwind](https://img.shields.io/static/v1?label=&message=Tailwind&color=%23788087&logo=TailwindCSS)](https://)
-[![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=%23fcb203&style=for-the-badge&logo=Astro)](https://)
-
+[![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=%23fcb203&logo=Astro&logoColor=%23fff)](https://)
